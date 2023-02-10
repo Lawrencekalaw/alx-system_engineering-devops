@@ -1,1 +1,2 @@
-contains the path name
+#!/bin/bash
+su switches the current user to another user
